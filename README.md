@@ -19,7 +19,7 @@ Languages and Tools:
 
 [<img align="left" alt="aws" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px;" />]
 
-![GHstats](https://github-readme-stats.versel.app/api?username=GitHub038&show_icons=true)
+![GHstats](https://github-readme-stats.vercel.app/api?username=GitHub038&show_icons=true)
 
 ### Connect with me: 
 [![img_contact](.img/globe-light.svg)](https://fffffffff.com#gh-light-mode-only)
