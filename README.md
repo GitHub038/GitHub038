@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Connect with me: 
+[![img_contact](.img/globe-light.svg)](https://fffffffff.com#gh-light-mode-only)
+[![img_contact](.img/globe-dark.svg)](https://fffffffff.com#gh-dark-mode-only)
