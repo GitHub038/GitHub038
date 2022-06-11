@@ -19,7 +19,9 @@ Languages and Tools:
 
 [<img align="left" alt="aws" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px;" />]
 
-![GHstats](https://github-readme-stats.vercel.app/api?username=GitHub038&show_icons=true)
+### ⭐ GitHub Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitHub038&show_icons=true&hide_border=false&title_color=3B1F94f&icon_color=FFE500&bg_color=09131B&text_color=ffffff&border_color=0c1a25)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Connect with me: 
 [![img_contact](.img/globe-light.svg)](https://fffffffff.com#gh-light-mode-only)
