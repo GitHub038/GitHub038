@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Languages and Tools: 
 
-<img align="left" alt="aws" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px;" />
+[<img align="left" alt="aws" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:11px;" />]
 
 
 ### Connect with me: 
