@@ -15,6 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Languages and Tools: 
+
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+
+
 ### Connect with me: 
 [![img_contact](.img/globe-light.svg)](https://fffffffff.com#gh-light-mode-only)
 [![img_contact](.img/globe-dark.svg)](https://fffffffff.com#gh-dark-mode-only)
