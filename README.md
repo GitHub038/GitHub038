@@ -33,5 +33,6 @@ Here are some ideas to get you started:
 
 
 ### Connect with me: 
-[![img_contact](.img/globe-light.svg)](https://fffffffff.com#gh-light-mode-only)
-[![img_contact](.img/globe-dark.svg)](https://fffffffff.com#gh-dark-mode-only)
+[![img_contact](./img/linkedin-light.svg)](https://www.linkedin.com/in/salim-o/#gh-light-mode-only)
+[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/salim-o/#gh-dark-mode-only)
+&nbsp;&nbsp;
