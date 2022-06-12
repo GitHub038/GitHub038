@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Salim
+# Salim
 I'm Salim from Grenoble. I am FullStack developper in React for Frontend and Java for Backend.
 
 
