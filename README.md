@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# Salim
+I'm Salim from Grenoble. I am FullStack developper in React for Frontend and Java for Backend.
+
+
 <!--
 **GitHub038/GitHub038** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
