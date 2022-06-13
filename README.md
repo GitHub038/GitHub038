@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Salim. I am living in Grenoble. I am FullStack developper in React/Java.
+My name is Salim. I am living in France. I am FullStack developper in React/Java.
 
 
 <!--
